@@ -1,11 +1,11 @@
 {
-    "name": "Survival-Soccer-launcher",
-    "preductname": "Survival Soccer Launcher",
+    "name": "RipaWorld-launcher",
+    "preductname": "RipaWorld Launcher",
     "version": "1.0.0",
-    "description": "Launcher minecraft de la survie Survival Soccer",
+    "description": "Launcher minecraft des Nations (crack + premium)",
     "main": "src/app.js",
     "author": "Autheur et créateur principal : Luuxis - Fork : Kay",
-    "url": "http://survival-soccer1.000webhostapp.com",
+    "url": "http://ripaworld1.000webhostapp.com",
     "engines": {
         "node": "16.x.x"
     },
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SurvivalSoccer/Survival-Soccer-Launcher.git"
+        "url": "git+https://github.com/RipaWorld/RipaWorld-Launcher.git"
     }
 }
